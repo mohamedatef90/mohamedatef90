@@ -21,7 +21,7 @@ I turn product ideas into working AI-powered experiences — combining product t
 
 | Project | What it demonstrates | Stack | Links |
 |---|---|---|---|
-| **Linkat + BentoLinks** | Cross-platform AI knowledge vault that enriches, organizes, and syncs saved links across mobile and web | Flutter, React, TypeScript, Supabase, AI | [Mobile repo](https://github.com/mohamedatef90/linkat) · [Web repo](https://github.com/mohamedatef90/bentolinks-ai) · [Live web app](https://bentolinks-ai.vercel.app) |
+| **Qlip** (formerly BentoLinks AI) | AI knowledge vault: every saved link is parsed and enriched with a summary, key points, and tags, then made searchable. Web app and native iOS client share one Supabase backend | React, TypeScript, SwiftUI, Supabase, AI | [Repository](https://github.com/mohamedatef90/qlip) · [Live web app](https://bentolinks-ai.vercel.app) · [Earlier Flutter app (archived)](https://github.com/mohamedatef90/linkat) |
 | **Feedback Hub** | Product feedback and product-ops workflow for collecting, organizing, and acting on user input | Next.js, TypeScript, Prisma | [Repository](https://github.com/mohamedatef90/feedback-hub) |
 | **Skru Score** | Polished score tracker for card and board games with a distinctive interaction and visual design | React, TypeScript, Vite | [Repository](https://github.com/mohamedatef90/skru-score) · [Live demo](https://skru-score.vercel.app) |
 | **Unified Sign-in User Types** | SaaS identity and authentication flow simulation focused on user journeys and product decisions | React, TypeScript | [Repository](https://github.com/mohamedatef90/user-types-of-worldposta-unified-sign-in) · [Live demo](https://user-types-of-worldposta-unified-si.vercel.app) |
